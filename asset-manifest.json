@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/lightmood/static/css/main.7b897773.css",
+    "main.js": "/lightmood/static/js/main.93c9e9b7.js",
+    "static/js/453.6f1e6f14.chunk.js": "/lightmood/static/js/453.6f1e6f14.chunk.js",
+    "index.html": "/lightmood/index.html",
+    "main.7b897773.css.map": "/lightmood/static/css/main.7b897773.css.map",
+    "main.93c9e9b7.js.map": "/lightmood/static/js/main.93c9e9b7.js.map",
+    "453.6f1e6f14.chunk.js.map": "/lightmood/static/js/453.6f1e6f14.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b897773.css",
+    "static/js/main.93c9e9b7.js"
+  ]
+}
